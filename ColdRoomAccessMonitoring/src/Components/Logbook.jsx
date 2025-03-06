@@ -42,6 +42,7 @@ const EmployeeLog = () => {
                   <button className="out-btn" onClick={() => handleCheckOut(index)}>Out</button>
                 )}
               </td>
+              
             </tr>
           ))}
         </tbody>
